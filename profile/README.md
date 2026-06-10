@@ -1,4 +1,4 @@
-## Hi there 👋
+Welcome to Derek Cochran's profile page.  He is an experienced developer for C, Java, Python, Node and other languages on Windows and Linux.  He is currently developing a portfolio of Open Source projects to assist with AI processing.
 
 <!--
 **DerekCochran/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
